@@ -1,0 +1,38 @@
+Is your game a board game?
+Is the maximum players equal to four?
+Is the maximum players equal to two?
+Are there more than five letters in its name?
+Do you control only a single piece?
+Do you get four starting cards?
+Is the whole deck dealt at the start?
+Is the second letter of its name an o?
+Is your game Black Jack?
+Is your game Cheat?
+Is your game Checkers?
+Is your game Chess?
+Is your game Cranium?
+Is your game Crazy Eights?
+Is your game The Game Of Life?
+Is your game Go Fish?
+Is your game Jumanji?
+Is your game Mahjong?
+Is your game Monopoly?
+Is your game Mouse Trap?
+Is your game Ninety-Nine?
+Is your game Old Maid?
+Is your game Poker?
+Is your game President?
+Is your game Risk?
+Is your game Rummy?
+Is your game Scabble?
+Is your game Shogi?
+Is your game Signal?
+Is your game Solitaire?
+Is your game Sorry?
+Is your game Spoons?
+Is your game Stratego?
+Is your game Trouble?
+Is your game War?
+Is your game Battleship?
+Is your game Euchre?
+Is your game Hearts?
